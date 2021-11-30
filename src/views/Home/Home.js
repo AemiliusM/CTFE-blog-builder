@@ -25,16 +25,16 @@ export default function Home() {
         
       />
       <Editor 
-       title={title}
-       setTitle={setTitle}
-       subtitle={subtitle}
-       setSubtitle={setSubtitle}
-       font={font}
-       setFont={setFont}
-       align={align}
-       setAlign={setAlign}
-       text={text}
-       setText={setText}
+        title={title}
+        setTitle={setTitle}
+        subtitle={subtitle}
+        setSubtitle={setSubtitle}
+        font={font}
+        setFont={setFont}
+        align={align}
+        setAlign={setAlign}
+        text={text}
+        setText={setText}
       />
     </main>
   )
